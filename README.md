@@ -1,2 +1,2 @@
 # Solidity-Projects
-This repo. have all the projects i've passed from while learning solidity. WAGMI
+This repo. have all the projects i've gone through while learning solidity. WAGMI
